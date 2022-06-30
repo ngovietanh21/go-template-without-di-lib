@@ -1,0 +1,12 @@
+# IDE
+.idea
+.vscode
+.DS_Store
+
+# Config
+.env
+configs/*.config.yaml
+!configs/template.config.yaml
+
+# Credential
+assets/credentials/*
